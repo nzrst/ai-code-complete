@@ -17,6 +17,6 @@
 			  {"keys": ["ctrl+shift+p"],"command": "openai_replace"}
         
 # Finally
-		Create and save a new php/py file, add a comment requesting code
-		make sure cursor is on the line, press ctrl+shift+p
+		Create and save a new php/py file, the file extension is used to determine the AI completion language to insert.
+		Add a comment for a function you're interested in, make sure cursor is on the line, press ctrl+shift+p
 
