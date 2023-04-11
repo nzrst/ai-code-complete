@@ -8,10 +8,11 @@ This plugin will allow you to convert comments in your code into actual code on 
 
 # Obtain OpenAI API Key
 		Register and create key here: https://beta.openai.com/account/api-keys
-		When you have an API key past it into the quotes for the api_key variable below.
+		When you have an API key paste it into the code for the following variable;
+			api_key = "[YOUR_KEY]"
 
 # Save Plugin
-		Save as "replace_current_line.py"
+		Save as "openai_replace.py"
 
 # Create shortcut key for plugin
 		Preferenced > Key Bindings
