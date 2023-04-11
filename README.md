@@ -4,7 +4,7 @@ This plugin will allow you to convert comments in your code into actual code on 
 
 # Create Plugin
 		Tools > Developer > New Plugin...
-		Use the source in OpenAIReplace.py
+		Use the source in openai_replace.py
 
 # Obtain OpenAI API Key
 		Register and create key here: https://beta.openai.com/account/api-keys
