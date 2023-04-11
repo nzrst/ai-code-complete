@@ -1,4 +1,4 @@
-# OpenAI Replace for Sublimt Text 3 or 4
+# OpenAI Replace for Sublimt Text 3+
 
 This plugin will allow you to convert comments in your code into actual code on the fly. The plugin will recognize the langauge you're working in based on the file extension.
 
